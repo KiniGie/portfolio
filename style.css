@@ -1,3 +1,11 @@
+header nav ul li a {
+  color: red;
+}
+
+.section_hero {
+  color: aquamarine;
+}
+
 h1 {
   color: green;
 }
