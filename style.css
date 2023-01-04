@@ -1,0 +1,19 @@
+h1 {
+  color: green;
+}
+
+h2 {
+  color: red;
+}
+
+h3 {
+  color: aqua;
+}
+
+.section-hero h1 {
+  color: blue;
+}
+
+.section-benefits h1 {
+  color: yellow;
+}/*# sourceMappingURL=style.css.map */
